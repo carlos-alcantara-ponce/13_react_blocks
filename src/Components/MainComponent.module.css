@@ -1,0 +1,17 @@
+.main {
+    background-color: #e06666;
+
+    border-style: solid;
+    margin-top: 20px;
+    margin-left: 20px;
+    /* margin-right: 20px; */
+    /* width: 20%; */
+    height: 400px;
+
+    flex: 4;
+
+    display: flex;
+    justify-content: center;
+    /* border-color: black; */
+
+}

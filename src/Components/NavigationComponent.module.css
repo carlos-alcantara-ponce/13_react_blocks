@@ -1,0 +1,11 @@
+.nav {
+
+
+    background-color: #6fa8dc;
+    border-style: solid;
+    margin-top: 20px;
+    width: 20%;
+    height: 300px;
+    flex: 1;
+    /* border-color: black; */
+}

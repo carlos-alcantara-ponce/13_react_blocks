@@ -32,7 +32,33 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+
+.app {
+  margin: auto;
+  background-color: #dddddd;
+  width: 80%;
+  height: 500px;
+  border-style: solid;
+  padding: 20px;
+  /* border-color: black; */
+
+}
+
+.navmain {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.mainhor {
+
+  display: flex
+}
+
+.mainver {}

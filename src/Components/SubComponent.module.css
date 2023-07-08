@@ -1,0 +1,15 @@
+.sub {
+
+    background-color: #ffd966;
+    border-style: solid;
+
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* width: 20%; */
+    height: 260px;
+
+    flex: 1;
+
+    /* border-color: black; */
+}
